@@ -1,0 +1,8 @@
+id/ac/umn/week02_32025/MainActivity.java
+ id.ac.umn.week02_32025.MainActivity
+ id.ac.umn.week02_32025.MainActivity$1
+ id.ac.umn.week02_32025.MainActivity$2
+ id.ac.umn.week02_32025.MainActivity$3
+ id.ac.umn.week02_32025.MainActivity$4
+id/ac/umn/week02_32025/BuildConfig.java
+ id.ac.umn.week02_32025.BuildConfig

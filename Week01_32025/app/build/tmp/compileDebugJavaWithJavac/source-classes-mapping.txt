@@ -1,0 +1,4 @@
+id/umn/ac/week01_32025/BuildConfig.java
+ id.umn.ac.week01_32025.BuildConfig
+id/umn/ac/week01_32025/MainActivity.java
+ id.umn.ac.week01_32025.MainActivity
