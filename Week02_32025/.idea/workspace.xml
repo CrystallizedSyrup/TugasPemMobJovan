@@ -8,8 +8,145 @@
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="62203d6e-546a-4964-a694-6b346e7804cb" name="Default Changelist" comment="" />
+    <list default="true" id="62203d6e-546a-4964-a694-6b346e7804cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_4_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_core_core_1_3_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_test_core_1_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_test_monitor_1_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_test_runner_1_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__com_google_android_material_material_1_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__junit_junit_4_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week01_32025/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week01_32025/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Week01_32025/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week01_32025/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Week01_32025/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week01_32025/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../Week01_32025/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week01_32025/.idea/modules/app/Week01_32025.app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week01_32025/.idea/modules/app/Week01_32025.app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week01_32025/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week01_32025/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/624fdde209a2a3c1aa4a7a358e06197b0339e9832b234dcf0ecccb44e57e807d_0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/624fdde209a2a3c1aa4a7a358e06197b0339e9832b234dcf0ecccb44e57e807d_0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/624fdde209a2a3c1aa4a7a358e06197b0339e9832b234dcf0ecccb44e57e807d_1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/624fdde209a2a3c1aa4a7a358e06197b0339e9832b234dcf0ecccb44e57e807d_1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/624fdde209a2a3c1aa4a7a358e06197b0339e9832b234dcf0ecccb44e57e807d_2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/624fdde209a2a3c1aa4a7a358e06197b0339e9832b234dcf0ecccb44e57e807d_2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/624fdde209a2a3c1aa4a7a358e06197b0339e9832b234dcf0ecccb44e57e807d_3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/624fdde209a2a3c1aa4a7a358e06197b0339e9832b234dcf0ecccb44e57e807d_3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week02_32025/BuildConfig.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week02_32025/BuildConfig.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week02_32025/MainActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week02_32025/MainActivity$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week02_32025/MainActivity$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week02_32025/MainActivity$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week02_32025/MainActivity$3.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week02_32025/MainActivity$3.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week02_32025/MainActivity$4.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week02_32025/MainActivity$4.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week02_32025/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week02_32025/MainActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/2c653780aa7d1d3918fd1864eab987ae89c8e485c0daf6e5c9d112b9bc1ca4e6_0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/2c653780aa7d1d3918fd1864eab987ae89c8e485c0daf6e5c9d112b9bc1ca4e6_0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/2c653780aa7d1d3918fd1864eab987ae89c8e485c0daf6e5c9d112b9bc1ca4e6_1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/2c653780aa7d1d3918fd1864eab987ae89c8e485c0daf6e5c9d112b9bc1ca4e6_1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/2c653780aa7d1d3918fd1864eab987ae89c8e485c0daf6e5c9d112b9bc1ca4e6_2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/2c653780aa7d1d3918fd1864eab987ae89c8e485c0daf6e5c9d112b9bc1ca4e6_2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/2c653780aa7d1d3918fd1864eab987ae89c8e485c0daf6e5c9d112b9bc1ca4e6_3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/2c653780aa7d1d3918fd1864eab987ae89c8e485c0daf6e5c9d112b9bc1ca4e6_3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week03_32025/BuildConfig.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week03_32025/BuildConfig.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week03_32025/DaftarKataAdapter$KataViewHolder.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week03_32025/DaftarKataAdapter$KataViewHolder.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week03_32025/DaftarKataAdapter.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week03_32025/DaftarKataAdapter.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week03_32025/FirstFragment$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week03_32025/FirstFragment$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week03_32025/FirstFragment.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week03_32025/FirstFragment.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week03_32025/MainActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week03_32025/MainActivity$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week03_32025/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week03_32025/MainActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week03_32025/SecondFragment$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week03_32025/SecondFragment$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week03_32025/SecondFragment.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week03_32025/SecondFragment.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week03_32025/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../Week03_32025/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04A_32025/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04A_32025/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04A_32025/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04A_32025/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04A_32025/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04A_32025/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04A_32025/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/ac1062bcae0e3305f9c7c219a19dfcb10b4e1f71ea4b76bb72b15455f5ef8e21_0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/ac1062bcae0e3305f9c7c219a19dfcb10b4e1f71ea4b76bb72b15455f5ef8e21_0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/ac1062bcae0e3305f9c7c219a19dfcb10b4e1f71ea4b76bb72b15455f5ef8e21_1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/ac1062bcae0e3305f9c7c219a19dfcb10b4e1f71ea4b76bb72b15455f5ef8e21_1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/ac1062bcae0e3305f9c7c219a19dfcb10b4e1f71ea4b76bb72b15455f5ef8e21_2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/ac1062bcae0e3305f9c7c219a19dfcb10b4e1f71ea4b76bb72b15455f5ef8e21_2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/ac1062bcae0e3305f9c7c219a19dfcb10b4e1f71ea4b76bb72b15455f5ef8e21_3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/ac1062bcae0e3305f9c7c219a19dfcb10b4e1f71ea4b76bb72b15455f5ef8e21_3.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week04a_32025/ActivityDua.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week04a_32025/ActivityDua.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week04a_32025/BuildConfig.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week04a_32025/BuildConfig.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week04a_32025/MainActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week04a_32025/MainActivity$1.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week04a_32025/MainActivity$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week04a_32025/MainActivity$2.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week04a_32025/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week04a_32025/MainActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/src/main/res/layout/activity_dua.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/src/main/res/layout/activity_dua.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +175,11 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1o01gz80x6bbQsRABC8Rm5gzuW5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,7 +192,7 @@
     <property name="android-custom-viewC:/Users/jovan/AppData/Local/Android/Sdk/sources/android-25/android/view/View.java_SELECTED" value="View" />
     <property name="android-custom-viewC:/Users/jovan/AppData/Local/Android/Sdk/sources/android-25/android/widget/TextView.java_SELECTED" value="TextView" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Week03_32025" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="multi-representation-previewC:/Users/jovan/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0/13e8ff89631c2e101eb6bddd12c2fb4bbd74b15d/appcompat-1.2.0-sources.jar!/androidx/appcompat/widget/AppCompatEditText.java_selected" value="Custom views" />
     <property name="multi-representation-previewC:/Users/jovan/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.2.1/37d55d5141066b3d118d24232fa7025b65eb3a74/material-1.2.1-sources.jar!/com/google/android/material/button/MaterialButton.java_selected" value="Custom views" />
     <property name="multi-representation-previewC:/Users/jovan/AppData/Local/Android/Sdk/sources/android-25/android/view/View.java_selected" value="Custom views" />
@@ -136,6 +277,17 @@
       <updated>1612408808704</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="1220" y="278" key="FileChooserDialogImpl" timestamp="1613551381817">
