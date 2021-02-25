@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v){
                 Intent intentDua = new Intent(MainActivity.this,ActivityDua.class);
                 String isian = etIsian.getText().toString();
-                intentDua.putExtra("PesanDariName",isian);
+                intentDua.putExtra("PesanDariMain",isian);
                 startActivityForResult(intentDua,1);
             }
         });
