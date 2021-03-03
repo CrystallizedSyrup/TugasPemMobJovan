@@ -1,0 +1,1 @@
+Dalam aplikasi ini, semuanya bekerja sesuai dengan harapan. Aplikasi dapat membuat path, line,dan juga rectangle. Warna juga bisa diganti sesuai harapan. Hal ini dapat dicapai dengan mengubah min api di gradle dari version 25 menjadi 29. Akan tetapi bentuk path tidak garis lurus, tetapi garis yang dibentuk dari naik turunan (kayak output dari filter FIR)
