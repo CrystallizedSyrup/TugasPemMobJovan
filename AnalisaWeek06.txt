@@ -1,0 +1,7 @@
+Terdapat 3 tutorial yang dilakukan hari ini.
+
+Yang pertama adalah tutorial untuk membuat animasi dimana sebuah lingkaran akan membesar dan setelah delay satu detik akan mengecil. Lingkaran juga akan berubah warna sesuai dengan besar radiusnya karena fungsi setRadius. Lingkaran akan terus terusan membesar dan kemudian mengecil dan membesar lagi karena fungsi setRepeatMode(ValueAnimator.REVERSE). Setelah ulang dijalankan, fungsi mAnimatorSet akan berbalik sehingga fungsi mengecil akan dijalankan.
+
+Yang kedua digunakan agar Animasi Drawable dapat dibuat. Fungsi setOnClickListener di gambarKuda. Hal ini berarti agar gambar dapat bergerak dengan lancar, pengguna aplikasi harus mengklik gambar Kuda dengan tepat. Gambar Kuda kemudian akan bergerak. Karena secara awalnya diset 300ms per gambar, gambar menjadi patah patah karena kurang cepat. Speed gambar diganti menjadi 50ms sehingga pergerakkan animasi lebih mulus.
+
+Yang ketiga digunakan untuk mereplikasi physics engine berupa fling dan spring. Dalam spring, Start Velocity di set menjadi 10000 dan Stiffness low. Saat dites, dapat dilihat bahwa spring pertama melonjang ke atas dan ke bawah sampai mencapai titik equilibrium (starting point). Sedangkan dalam fling agak berbeda. Fling yang digunakan adalah SetRotation ke sumbu X. Karena terdapat velocity initial yang di set dan frictionnya, pertama tama textbox akan mempunyai kecepatan 150 yang kemudian melambat karena adanya gaya gesek. Karena itu, textbox tidak akan stop pada tempat semulanya

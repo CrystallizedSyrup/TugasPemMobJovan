@@ -25,15 +25,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="883b305d-9cfc-454a-960c-db454f80ab11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/id/ac/umn/week05a_32025/CustomView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week04A_32025/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Week06A/app/src/main/java/id/ac/umn/week06a/ViewAnimasi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[33510c12]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -152,6 +152,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1245" y="239" key="#com.intellij.ide.util.MemberChooser" timestamp="1614783346579">
