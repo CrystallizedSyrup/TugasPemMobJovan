@@ -1,0 +1,6 @@
+id/ac/umn/week06a/BuildConfig.java
+ id.ac.umn.week06a.BuildConfig
+id/ac/umn/week06a/MainActivity.java
+ id.ac.umn.week06a.MainActivity
+id/ac/umn/week06a/ViewAnimasi.java
+ id.ac.umn.week06a.ViewAnimasi
