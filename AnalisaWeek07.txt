@@ -1,0 +1,2 @@
+Terdapat 2 projek yang dibuat pada minggu ini. Projek yang pertama bertujuan untuk dapat mengambil foto dan megambil video. Hal ini dapat dijalankan dengan menggunakan intent. Dengan menggunakan variabel konstant, kode dapat lebih gampang dimaintain di masa depan. App bekerja dengan baik dan sesuai harapan.
+Projek kedua bertujuan untuk menyimpan banyak video dalam satu list dengan menggunakan linked list. Hal yang bisa diimprove adalah penempatan video yang lebih rapi dan layoutnya. Selain itu, app bekerja dengan sesuai harapan.
