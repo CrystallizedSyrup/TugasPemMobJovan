@@ -7,27 +7,79 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6878eee8-24d2-4fb8-aad4-a167bc714c80" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Week04A_32025/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week04A_32025/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week04A_32025/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week04A_32025/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week04A_32025/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week04A_32025/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_4_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_core_core_1_3_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_dynamicanimation_dynamicanimation_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_test_core_1_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_test_monitor_1_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_test_runner_1_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__com_google_android_material_material_1_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__junit_junit_4_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/modules/My_Applicationqwf.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/modules/app/My_Applicationqwf.app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplicationqwf/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UAS32025/app/src/main/java/id/ac/umn/uas32025/TampilanUtama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UAS32025/app/src/main/java/id/ac/umn/uas32025/login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UAS32025/app/src/main/java/id/ac/umn/uas32025/profil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UAS32025/app/src/main/res/drawable-v24/avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UAS32025/app/src/main/res/drawable-v24/play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UAS32025/app/src/main/res/layout/login.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UAS32025/app/src/main/res/layout/profil.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UAS32025/app/src/main/res/layout/tampilan_utama.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Week04A_32025/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/ac1062bcae0e3305f9c7c219a19dfcb10b4e1f71ea4b76bb72b15455f5ef8e21_0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/ac1062bcae0e3305f9c7c219a19dfcb10b4e1f71ea4b76bb72b15455f5ef8e21_0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/ac1062bcae0e3305f9c7c219a19dfcb10b4e1f71ea4b76bb72b15455f5ef8e21_1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/ac1062bcae0e3305f9c7c219a19dfcb10b4e1f71ea4b76bb72b15455f5ef8e21_1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/ac1062bcae0e3305f9c7c219a19dfcb10b4e1f71ea4b76bb72b15455f5ef8e21_2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/ac1062bcae0e3305f9c7c219a19dfcb10b4e1f71ea4b76bb72b15455f5ef8e21_2.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/ac1062bcae0e3305f9c7c219a19dfcb10b4e1f71ea4b76bb72b15455f5ef8e21_3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/ac1062bcae0e3305f9c7c219a19dfcb10b4e1f71ea4b76bb72b15455f5ef8e21_3.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week04a_32025/ActivityDua.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week04a_32025/ActivityDua.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week04a_32025/BuildConfig.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week04a_32025/BuildConfig.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week04a_32025/MainActivity$1.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week04a_32025/MainActivity$1.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week04a_32025/MainActivity$2.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week04a_32025/MainActivity$2.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week04a_32025/MainActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/intermediates/project_dex_archive/debug/out/id/ac/umn/week04a_32025/MainActivity.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Week04A_32025/app/src/main/res/layout/activity_dua.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week04A_32025/app/src/main/res/layout/activity_dua.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +114,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Week01_32025" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunManager">
