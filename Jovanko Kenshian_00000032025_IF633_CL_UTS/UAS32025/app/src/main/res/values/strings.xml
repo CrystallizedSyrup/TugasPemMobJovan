@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">UAS32025</string>
+    <string name="profil">PROFIL</string>
+    <string name="title">MUSIC PLAYER</string>
+    <string name="login">LOGIN</string>
+    <string name="NIM">00000032025</string>
+    <string name="nama">Jovanko Kenshian</string>
+    <string name="kelas">CL</string>
+    <string name="titleNIM">NIM   : &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="titlenama">Nama  : &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="titlekelas">Kelas : &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="listlagu">List Lagu</string>
+    <string name="navbarLogin">Halaman Login</string>
+    <string name="navbarProfil">Profil Saya</string>
+    <string name="References">References : </string>
+    <string name="website">Website:</string>
+    <string name="st">https://stackoverflow.com</string>
+    <string name="ad">https://developer.android.com/</string>
+    <string name="wemen">https://elearning.umn.ac.id/</string>
+    <string name="mb">https://mobikul.com/show-seekbar-media-player/</string>
+    <string name="gfg">https://www.geeksforgeeks.org/</string>
+    <string name="profils">Profil</string>
+    <string name="logout">Log Out</string>
+    <string name="np">Now Playing</string>
+</resources>
