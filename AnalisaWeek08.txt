@@ -1,0 +1,3 @@
+Aplikasi pertama berjalan sesuai tujuan. File tidak dapat disimpan jika tidak ada input. Temp cuma akan menyimpan data pada cache. Maka jika app mengalami destroy, file juga hilang. Sedangkan internal disimpan dalam internal storage (tidak dapat dilihat oleh user). External disimpan pada external storage.
+
+Untuk Aplikasi kedua, dengan menggunakan sharedpreference, state dapat disimpan walaupun app sudah di destroy.
