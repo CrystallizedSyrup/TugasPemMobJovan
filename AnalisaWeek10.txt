@@ -1,0 +1,7 @@
+Terdapat 3 projek yang buat pada minggu ini. Setiap projek mendemonstrasikan berbagai cara agar bisa menjalankan suatu proses pada background. 
+
+Yang pertama dilakukan dengan menggunakan AsyncTask. Dengan menggunakan AsyncTask, sebuah proses dapat dijalankan pada background sehingga aplikasi masih bisa diinteraksi oleh user.
+
+Yang kedua adalah AsyncTaskLoader. Hal ini hampir mirip dengan AsyncTask, akan tetapi tidak seperti AsyncTask, AsyncTaskLoader akan mengeliminasi jika adanya background thread sebelumnya yang tidak terdestroy (zombie thread). Sebagai contoh pada W10a, jika dirotate, ui thread dari thread sebelumnya masih terdisplay, akan tetapi pada W10b, ui thread langsung direset.
+
+Yang ketiga adalah dengan menggunakan Service. Terdapat dua service yang digunakan, yaitu Started Service dan Bound Service. Pada Started Service, AsyncTask juga digunakan agar multiple work thread dapat dibuat. Hal ini dapat dilihat jika button dipencet berkali kali, setiap proses akan berjalan secara paralel. Yang kedua adalah Bound Service. Bound Service berguna karena value dari Bound Service dapat dipassing ke background thread, tidak seperti Started Service. Service juga berguna karena fitur tersebut akan berjalan terus menerus di balik layar.
